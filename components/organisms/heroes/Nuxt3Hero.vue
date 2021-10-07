@@ -91,7 +91,7 @@
 <script>
 import { defineComponent, ref } from '@nuxtjs/composition-api'
 import { parseISO } from 'date-fns'
-import { useNewsletter } from '~/plugins/composables'
+import { useNewsletter } from '~/plugins/newsletter'
 
 export default defineComponent({
   setup() {
