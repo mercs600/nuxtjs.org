@@ -19,8 +19,11 @@ The Intuitive Vue<br>Framework
 #description
 Nuxt を使って信頼ある次世代の Vue.js アプリケーションを構築する<br class="hidden sm:block" /> Web 開発をシンプルにかつパワフルにするオープンソースフレームワーク
 
+#primary-button
+:app-button[38K+ GitHub stars]{ href="https://github.com" icon="IconGitHub" buttonClass="text-white bg-sky-black hover:bg-sky-darker leading-4" size="large" }
+
 #secondary-button
-:button-link[はじめる]{ href="/docs/get-started/installation" size="medium" aria-label="はじめる" }
+:app-button[はじめる]{ to="/docs/get-started/installation" buttonClass="text-black bg-primary-500 hover:bg-primary-400 focus:ring-primary-600 py-4" }
 ::
 
 ::home-learn-master
@@ -35,7 +38,7 @@ category: 学ぶ
 Nuxt コミュニティに参加し私達を助け Nuxtify な世界にします。
 
 #bottom
-:button-link[全てを学習する]{href="/docs/get-started/installation" size="medium"}
+:app-button[全てを学習する]{to="/docs/get-started/installation"}
 ::
 
 ::home-features
@@ -126,7 +129,7 @@ category: パートナー
 Nuxt の開発は情熱を持った開発者によって作られますが、メンテナンスするための必要な労力と新機能開発には、適切な資金のサポートなしには持続できません。これを可能にするのは、スポンサーやパートナーの皆様のおかげです。<br>
 
 #bottom
-:button-link[Nuxt のスポンサー]{href="/sponsors" size="medium"}
+:app-button[Nuxt のスポンサー]{to="/sponsors"}
 ::
 
 ::home-learn-guides
