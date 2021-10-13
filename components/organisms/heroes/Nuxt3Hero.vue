@@ -78,10 +78,10 @@
           Build you next application with Vue 3 and experience hybrid rendering, powerful data fetching and new
           features. Nuxt 3 is an open source framework making web development simple and powerful.
         </h2>
-        <SectionButton
+        <AppButton
           href="https://v3.nuxtjs.org"
           class="rounded-md bg-primary text-gray-800 hover:bg-primary-300 focus:bg-primary-300 mx-auto mt-8"
-          >Get Started</SectionButton
+          >Get Started</AppButton
         >
       </section>
     </div>
