@@ -61,10 +61,6 @@ export default {
   modules: {
     search: 'Pesquisar um módulo (nome, categoria, usuario, etc.)',
     sort_by: 'Ordenar por',
-    sort_fields: {
-      downloads: 'Downloads',
-      stars: 'Estrelas'
-    },
     loading: 'Carregando...',
     error: 'Um erro ocorreu enquanto carregava os módulos.'
   },
@@ -140,7 +136,11 @@ export default {
     minutes: 'minutos',
     seconds: 'segundos',
     copied: 'copiado',
-    watch_video: 'Assistir ao vídeo'
+    watch_video: 'Assistir ao vídeo',
+    download: 'Download',
+    downloads: 'Downloads',
+    star: 'Estrela',
+    stars: 'Estrelas'
   },
   iso: 'pt'
 }
