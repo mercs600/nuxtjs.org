@@ -80,7 +80,7 @@
         </h2>
         <AppButton
           href="https://v3.nuxtjs.org"
-          class="rounded-md bg-primary text-gray-800 hover:bg-primary-300 focus:bg-primary-300 mx-auto mt-8"
+          extra-class="rounded-md bg-primary text-gray-800 hover:bg-primary-300 focus:bg-primary-300 mx-auto mt-8"
           >Get Started</AppButton
         >
       </section>
